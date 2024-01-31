@@ -35,7 +35,7 @@ A test run comprises individual tests for each case you've incorporated. You can
 The following test statuses are available by default:
 
 - **Untested:** New tests start with the "Untested" status by default. Once a test result has been recorded, it cannot return to the "Untested" status.
-- **Passed:** A test is marked as Passed when a tester verified the test steps and the expected results.
+- **Passed:** A test is marked as Passed when a tester verifies the test steps and the expected results.
 - **Failed:** Testers designate a test as "Failed" if any of the specified test steps encounter errors or if the actual test result deviates from the expected outcome.
 - **Retest:** If a developer or tester determines that a test needs to be reevaluated, they label it as "Retest." For instance, if a test initially failed and a developer subsequently rectified the issue, it can be marked for reevaluation.
 - **Blocked:** The "Blocked" status is used when a test cannot be executed at present due to external dependencies, such as a bug that must be resolved before the test can be completed. This status is often employed in conjunction with the "Retest" status.
@@ -48,7 +48,7 @@ Projects serve as the fundamental organizational cornerstone within TestRail. Th
 
 ## Milestones
 
-In TestRail, you have the capability to include your project milestones in your workflow. These milestones can encompass significant project events, such as anticipated public software releases, internal test phases, or even specialized beta releases for key clients. Once you've integrated your milestones into TestRail, you gain the ability to allocate test runs to specific milestones.
+In TestRail, you can include your project milestones in your workflow. These milestones can encompass significant project events, such as anticipated public software releases, internal test phases, or even specialized beta releases for key clients. Once you've integrated your milestones into TestRail, you gain the ability to allocate test runs to specific milestones.
 
 This practice of assigning test runs to milestones offers several advantages. It enables you to conveniently monitor the progress and test results of each milestone individually. This proves especially valuable when you're concurrently working on multiple milestones or managing numerous active test runs. Effectively utilizing milestones within TestRail can greatly streamline your project management process.
 
@@ -64,7 +64,7 @@ Frequently, you'll encounter scenarios where you need to assess a particular tes
 
 Tests within TestRail can be efficiently allocated to team members, offering flexibility in the assignment process. You can opt to assign tests either during the creation of a test run or at a later stage, directly from the run or test pages. Once a test has been designated to a specific user, it instantly becomes part of that user's todo list. Each user maintains an individual todo list for every project they are engaged in, while the Dashboard offers a convenient overview of all their pending tasks across various projects.
 
-Moreover, the todo page provides the capability to not only view one's own tasks but also those of fellow team members or the entire team simultaneously. This feature serves as a valuable resource for team leads, enabling them to efficiently delegate tests to team members with the lightest workload.
+Moreover, the todo page provides the capability to not only view one's tasks but also those of fellow team members or the entire team simultaneously. This feature serves as a valuable resource for team leads, enabling them to efficiently delegate tests to team members with the lightest workload.
 
 Additionally, TestRail offers email notifications as a pertinent feature. These notifications prove invaluable in keeping test owners informed about changes made by other users to their assigned tests. For instance, if a test is assigned to a user (i.e., the test owner), and another user adds a comment or records a test result for that test, the test owner receives prompt email notifications. Furthermore, users can choose to subscribe to tests owned by others or even entire test runs by simply clicking the small email icons available on the relevant pages. This functionality enhances communication and collaboration within the testing team, ensuring everyone stays informed and up-to-date.
 
