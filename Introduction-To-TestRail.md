@@ -1,8 +1,12 @@
-# Introduction to TestRail
+# $${\color{lightgreen}Introduction \space \space to \space \space TestRail}$$
 
+<br>
+
+<p align="center">
 TestRail is a web-based test case management tool that plays a vital role in the software testing ecosystem. It serves as a go-to platform for testers, developers, and team leaders alike, enabling them to efficiently oversee, monitor, and structure their software testing endeavors. With TestRail, team members can seamlessly create and input test cases, arrange them into test suites, execute comprehensive test runs, and closely monitor and analyze the results—all through an intuitive web-based user interface.
+</p>
 
----
+$${\color{green}**────────────────────────────────────────────────────────**}$$
 
 ## The Dashboard
 
@@ -12,6 +16,8 @@ When you choose to explore a specific project by clicking on its title, you seam
 
 Should you wish to navigate to a different project at any point, simply return to the dashboard by clicking the link located in the upper left corner.
 
+<br>
+
 ## Test Cases and Sections
 
 A TestRail test case comprises a comprehensive description of test prerequisites, a sequence of test steps, and the anticipated outcome. Ideally, a single tester should be able to verify a test case in a relatively short time frame. Each test case serves the purpose of either confirming a specific functionality, documenting a task, or validating a project artifact.
@@ -19,6 +25,8 @@ A TestRail test case comprises a comprehensive description of test prerequisites
 Within the TestRail framework, test cases are efficiently organized into sections and subsections. These organizational units act as containers for test cases and are typically employed to categorize them based on specific project modules or product areas. The structuring of sections depends on the scope and complexity of your project. For projects with a substantial number of test cases within a module, it is advisable to further subdivide sections and create sub-sections to isolate distinct features or functionalities.
 
 For instance, if you utilize multiple test cases to assess a particular application dialog or web page, these test cases should logically be grouped within a dedicated section for clarity and ease of management.
+
+<br>
 
 ## Test Runs and Tests
 
@@ -42,15 +50,21 @@ The following test statuses are available by default:
 
 Once a test run reaches its conclusion, you can close it from the edit page of the run. Tests within a closed run become unmodifiable, which makes it an ideal choice for archiving purposes. Furthermore, any alterations made to the attributes of associated cases (such as the expected result) will not affect the closed and archived run.
 
+<br>
+
 ## Projects and Their Types
 
 Projects serve as the fundamental organizational cornerstone within TestRail. They serve as the primary container for all other data, including test runs, test results, milestones, and more, all of which are intricately linked to and attributed to a designated project.
+
+<br>
 
 ## Milestones
 
 In TestRail, you can include your project milestones in your workflow. These milestones can encompass significant project events, such as anticipated public software releases, internal test phases, or even specialized beta releases for key clients. Once you've integrated your milestones into TestRail, you gain the ability to allocate test runs to specific milestones.
 
 This practice of assigning test runs to milestones offers several advantages. It enables you to conveniently monitor the progress and test results of each milestone individually. This proves especially valuable when you're concurrently working on multiple milestones or managing numerous active test runs. Effectively utilizing milestones within TestRail can greatly streamline your project management process.
+
+<br>
 
 ## Test Plans and Configurations
 
@@ -60,6 +74,8 @@ To create a test plan, you can initiate the process by clicking the "Add Test Pl
 
 Frequently, you'll encounter scenarios where you need to assess a particular test run against multiple configurations, such as various operating systems or web browser versions. Simplifying the creation of separate test runs for each configuration combination, TestRail allows you to specify and select all configurations for your test runs within a plan effortlessly. To achieve this, merely click the "Select Configurations" link associated with a run, and then proceed to select or add the desired configurations. This feature streamlines the process, enhancing efficiency in your testing efforts.
 
+<br>
+
 ## Todos and Notifications
 
 Tests within TestRail can be efficiently allocated to team members, offering flexibility in the assignment process. You can opt to assign tests either during the creation of a test run or at a later stage, directly from the run or test pages. Once a test has been designated to a specific user, it instantly becomes part of that user's todo list. Each user maintains an individual todo list for every project they are engaged in, while the Dashboard offers a convenient overview of all their pending tasks across various projects.
@@ -68,7 +84,9 @@ Moreover, the todo page provides the capability to not only view one's tasks but
 
 Additionally, TestRail offers email notifications as a pertinent feature. These notifications prove invaluable in keeping test owners informed about changes made by other users to their assigned tests. For instance, if a test is assigned to a user (i.e., the test owner), and another user adds a comment or records a test result for that test, the test owner receives prompt email notifications. Furthermore, users can choose to subscribe to tests owned by others or even entire test runs by simply clicking the small email icons available on the relevant pages. This functionality enhances communication and collaboration within the testing team, ensuring everyone stays informed and up-to-date.
 
-# Tracking Progress and Activity
+<br>
+
+## Tracking Progress and Activity
 
 In addition to simplifying test case management and result entry, TestRail's capability to offer all team members a seamless means of monitoring test progress stands out as one of its most invaluable features. This feature allows you to effortlessly track the results and testing activity at the level of test runs, milestones, and entire projects via dedicated resource pages.
 
