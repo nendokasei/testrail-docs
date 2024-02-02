@@ -1,6 +1,7 @@
 # $${\color{lightgreen}TestRail \space - \space Usage \space - \space Tips \space \space and \space \space Tricks}$$
 
 <br>
+
 # Advanced Search Options
 
 When you enter a search term into TestRail’s search box (in the upper-right corner of the user interface), TestRail will automatically search through all project entities, including test cases, runs, and suites. TestRail will also search through any custom field that you’ve added to the test case and test results.
