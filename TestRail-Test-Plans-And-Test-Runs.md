@@ -58,10 +58,10 @@ $${\color{green}**────────────────────�
 3. The **Select Test Suite** pop-up will be displayed, select the test suite to include in the test run, then click the **OK** button
 4. The **Add Test Run** page will be displayed, where the following information can be input: **Name**, **Milestone**, **Assigned To**, and **Description**
 5. When selecting test cases to add to the **Test Run**, there are two options:
-  - **Include all test cases:** Select this option to include all test cases in this test run. If new test cases are added to the repository, they are also automatically included in this run. 
-  - **Select specific test cases:** Select test cases to include in this test run. New test cases are not automatically added to this run. When this option is selected, the following additional steps must be performed:
-    - Click on the **change selection**
-    - This opens the **Select Cases** wizard with all available test cases. The entire section or specific test cases from each section can be selected. Click the **OK** button to submit the selection.
+    - **Include all test cases:** Select this option to include all test cases in this test run. If new test cases are added to the repository, they are also automatically included in this run. 
+    - **Select specific test cases:** Select test cases to include in this test run. New test cases are not automatically added to this run. When this option is selected, the following additional steps must be performed:
+      - Click on the **change selection**
+      - This opens the **Select Cases** wizard with all available test cases. The entire section or specific test cases from each section can be selected. Click the **OK** button to submit the selection.
 6. The number of attached test cases is displayed beside the **change selection** option. Click the **Add Run** button
 7. The test run will be successfully created and display a pie chart and test cases in the **Test Runs & Results** tab
 
@@ -85,10 +85,10 @@ $${\color{green}**────────────────────�
 2. The **Select Tests** wizard, as shown in the following screenshot, will be displayed, allowing the tester to select the test cases based on the status of the previous test result
 3. After selection, click the **OK** button
 4. After clicking the **OK** button, the **Add Test Run** page is displayed where the tester should enter the following information:
-  - **Name**
-  - **Milestone**
-  - **Assigned To**
-  - **Description**
+    - **Name**
+    - **Milestone**
+    - **Assigned To**
+    - **Description**
 5. By default, the second test case selection option is selected. The number of test cases included is visible as well. Click on the **Add Run** button
 6. After clicking the **Add Test Run** button, the pie chart and test cases of the newly created test run are displayed in the **Test Runs & Results** tab
 
