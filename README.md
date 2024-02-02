@@ -1,3 +1,5 @@
-# testrail-docs
+# $${\color{lightgreen}TestRail \space Docs}$$
 
-*Haven't you ever wanted to better understand how to actually use TestRail?*
+$${\color{green}**────────────────────────────────────────────────────────**}$$
+
+<h2 align="center">Haven't you ever wanted to understand how to actually use TestRail?</h2>
