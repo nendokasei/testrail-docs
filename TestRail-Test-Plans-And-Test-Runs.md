@@ -2,7 +2,7 @@
 
 # Overview
 
-## The difference between a Test Run and a Test Plan
+- ## The difference between a Test Run and a Test Plan
 
 A **Test Run** would usually encompass one or two tests being done for a JIRA bug or case that involves a small scope.
 
@@ -10,7 +10,7 @@ A **Test Plan** would usually encompass a series of tests (at least 2 or more) f
 
 A **Test Plan** will always have **Test Runs** within it, while **Test Runs** do not necessarily have to be in a **Test Plan**.
 
-## Test Run
+- ## Test Run
 
 A **Test Run** consists of individual tests for each case that is added and is an actual test you are conducting.
 
@@ -27,7 +27,7 @@ The following test statuses are available by default:
 
 Once a test run has been completed, you can close it from the run’s edit page. Tests of a closed run cannot be edited or changed, making it ideal for archiving test runs. Additionally, if you change any of the associated cases’ attributes (such as the expected result), the change won’t be applied to the closed and archived run.
 
-## Test Run
+- ## Test Run
 
 When you need to manage multiple test runs and configurations for a single project, TestRail’s test plans come in handy. A test plan allows you to start multiple test runs at once if you want to test against multiple configurations. A configuration can be anything you need to test your projects against, such as different operating systems or web browsers. 
 
