@@ -1,4 +1,4 @@
-# $${\color{lightgreen}TestRail \space \space Test \space \space Cases}$$
+# $${\color{lightgreen}TestRail \space - \space Test \space \space Cases}$$
 
 # Overview
 
