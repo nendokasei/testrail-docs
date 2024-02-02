@@ -1,4 +1,4 @@
-# $${\color{lightgreen}TestRail \space \space Test \space \space Plans \space \space and \space \space Test \space \space Runs}$$
+# $${\color{lightgreen}TestRail \space -  \space Test \space \space Plans \space \space and \space \space Test \space \space Runs}$$
 
 # Overview
 
